@@ -3,3 +3,8 @@ node_modules/
 *.pem
 *.crt
 .DS_Store
+
+
+/cattle_tracker_env/
+__pycache__/
+*.pyc   
